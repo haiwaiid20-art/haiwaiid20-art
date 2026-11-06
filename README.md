@@ -6,6 +6,6 @@
 
 New to Muse? Redeem **FUMWN1** in Settings → General → Redeem invite code within 48 hours of joining, and we both get **1 billion Muse tokens**.
 
-Remaining uses as of 2026-11-05: **26**
+Remaining uses as of 2026-11-06: **24**
 
 Details and FAQ: [haiwaiid20-art/muse-invite-code](https://github.com/haiwaiid20-art/muse-invite-code)
