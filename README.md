@@ -1,4 +1,4 @@
-# Hi, I'm haiwaiid20-art 👋
+# Hi, I'''m haiwaiid20-art 👋
 
 ## 🎁 Muse Invite Code: FUMWN1
 
@@ -6,6 +6,6 @@
 
 New to Muse? Redeem **FUMWN1** in Settings → General → Redeem invite code within 48 hours of joining, and we both get **1 billion Muse tokens**.
 
-Remaining uses as of 2026-11-09: **21**
+Remaining uses as of 2026-11-10: **20**
 
 Details and FAQ: [haiwaiid20-art/muse-invite-code](https://github.com/haiwaiid20-art/muse-invite-code)
